@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.db
+*.db-journal
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+
+# Environment
+.env
+.env.local
+frontend/.env
+backend/.env
+
+# Editors and OS
+.vscode/
+.DS_Store
+*.log
